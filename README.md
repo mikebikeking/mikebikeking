@@ -6,7 +6,7 @@ Frontend Developer
 
 After 20 years as a professional technician in the cycling industry, I am making a career change to frontend development. My strong passion for this field has been cultivated through three years of dedicated coding experience.
 
-*   🌍  I'm based in Chicago, IL, USA
+*   🌍  I'm based in Boston, MA, USA
 *   🖥️  See my portfolio at [My Portfolio](http:www.mikeking.dev)
 *   ✉️  You can contact me at [mikebikeking@gmail.com](mailto:mikebikeking@gmail.com)
 *   🧠  I'm learning HTML, CSS, React, Java, Tailwind CSS, and Firebase
