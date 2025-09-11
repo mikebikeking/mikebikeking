@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-After 20 years as a professional technician in the cycling industry, I am making a career change to frontend development. My strong passion for this field has been cultivated through three years of dedicated coding experience.
+Frontend Developer with 20 years of systematic troubleshooting and customer service experience, specializing in building
+scalable web applications with React and TypeScript. Proven ability to diagnose complex problems, mentor development teams,
+and deliver solutions that work reliably under pressure
 
 *   🌍  I'm based in Boston, MA, USA
 *   🖥️  See my portfolio at [My Portfolio](https//:www.mikeking.dev)
