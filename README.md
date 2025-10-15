@@ -10,7 +10,7 @@ and deliver solutions that work reliably under pressure
 
 *   🌍  I'm based in Boston, MA, USA
 *   🖥️  See my portfolio at [My Portfolio](https//:www.mikeking.dev)
-*   ✉️  You can contact me at [mikebikeking@gmail.com](mailto:mikebikeking@gmail.com)
+*   ✉️  You can contact me at [mikeb@mikeking.dev](mailto:mike@mikeking.dev)
 *   🧠  I'm building with React, TypeScript, Tailwind CSS, and Vite
 *   🤝  I'm open to collaborating on react applications and modern web development projects.
 *   ⚡ I am passionate about preparing fresh pasta. 🍝
