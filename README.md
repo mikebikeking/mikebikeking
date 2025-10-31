@@ -9,7 +9,7 @@ scalable web applications with React and TypeScript. Proven ability to diagnose 
 and deliver solutions that work reliably under pressure
 
 *   🌍  I'm based in Boston, MA, USA
-*   🖥️  See my portfolio at [My Portfolio](https//:www.mikeking.dev)
+*   🖥️  See my portfolio at [My Portfolio](https://www.mikeking.dev/)
 *   ✉️  You can contact me at [mike@mikeking.dev](mailto:mike@mikeking.dev)
 *   🧠  I'm building with React, TypeScript, Tailwind CSS, and Vite
 *   🤝  I'm open to collaborating on react applications and modern web development projects.
